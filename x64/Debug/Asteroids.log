@@ -1,0 +1,32 @@
+﻿  Asteroid.cpp
+D:\Yarik\Works\C++\Asteroids\Asteroid.cpp(5,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\Asteroid.cpp(6,22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Bullet.cpp
+  Entity.cpp
+D:\Yarik\Works\C++\Asteroids\Entity.cpp(31,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\Entity.cpp(32,15): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\Entity.cpp(34,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Events.cpp
+  Explosion.cpp
+  Player.cpp
+D:\Yarik\Works\C++\Asteroids\Player.cpp(15,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\Player.cpp(16,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\Player.cpp(20,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\Player.cpp(21,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+D:\Yarik\Works\C++\Asteroids\main.cpp(47,46): warning C4305: аргумент: усечение из "double" в "float"
+D:\Yarik\Works\C++\Asteroids\main.cpp(48,52): warning C4305: аргумент: усечение из "double" в "float"
+D:\Yarik\Works\C++\Asteroids\main.cpp(49,48): warning C4305: аргумент: усечение из "double" в "float"
+D:\Yarik\Works\C++\Asteroids\main.cpp(60,59): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(80,60): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(80,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(102,67): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(102,56): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(110,83): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(110,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(110,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(124,72): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(124,61): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Yarik\Works\C++\Asteroids\main.cpp(160,54): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  Asteroids.vcxproj -> D:\Yarik\Works\C++\Asteroids\x64\Debug\Asteroids.exe
